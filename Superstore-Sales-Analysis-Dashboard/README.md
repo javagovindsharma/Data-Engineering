@@ -105,9 +105,6 @@ Superstore-Sales-Analysis-Dashboard/
 ├── Dataset/
 │   └── Superstore_Sales.csv
 │
-├── PowerBI_Dashboard/
-│   └── Superstore_Dashboard.pbix
-│
 ├── Python_Forecasting/
 │   └── sales_forecasting.ipynb
 │
