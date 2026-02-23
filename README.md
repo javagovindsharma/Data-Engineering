@@ -1,8 +1,3 @@
-Bilkul 👍
-Yeh ek **simple, clean, beginner-friendly README.md** template hai for your **Data Engineering Repository**:
-
----
-
 # 📊 Data Engineering Projects
 
 ## 📌 Overview
@@ -92,5 +87,3 @@ Data-Engineering/
 **Govind Sharma**
 Learning Data Engineering
 
-
-Agar aap chaho to main isko thoda **resume-friendly version** bhi bana du ya phir thoda **professional touch add kar du (without making it complex)** 👍
